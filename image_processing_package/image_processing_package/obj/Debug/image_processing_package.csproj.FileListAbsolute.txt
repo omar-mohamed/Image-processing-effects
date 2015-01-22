@@ -1,0 +1,9 @@
+D:\Darsh\Visual Studio\image_processing_package\image_processing_package\bin\Debug\image_processing_package.exe.config
+D:\Darsh\Visual Studio\image_processing_package\image_processing_package\bin\Debug\image_processing_package.exe
+D:\Darsh\Visual Studio\image_processing_package\image_processing_package\bin\Debug\image_processing_package.pdb
+D:\Darsh\Visual Studio\image_processing_package\image_processing_package\obj\Debug\image_processing_package.csprojResolveAssemblyReference.cache
+D:\Darsh\Visual Studio\image_processing_package\image_processing_package\obj\Debug\image_processing_package.Properties.Resources.resources
+D:\Darsh\Visual Studio\image_processing_package\image_processing_package\obj\Debug\image_processing_package.csproj.GenerateResource.Cache
+D:\Darsh\Visual Studio\image_processing_package\image_processing_package\obj\Debug\image_processing_package.exe
+D:\Darsh\Visual Studio\image_processing_package\image_processing_package\obj\Debug\image_processing_package.pdb
+D:\Darsh\Visual Studio\image_processing_package\image_processing_package\obj\Debug\image_processing_package.Main.resources
